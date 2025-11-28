@@ -68,6 +68,4 @@ Currently a Computer Science student at <b>Tanta University</b>, graduating in 2
 </p>
 
 <hr />
-<p align="center">
-This README is crafted with ❤️ by <b>Rana Ahmed Hassan</b>.  
-</p>
+
